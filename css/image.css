@@ -1,0 +1,19 @@
+body{   
+     background-color:white;
+     color:; 
+  }  
+ 
+p{	font-family:"";
+}
+.good {color:black;}
+
+li{
+  margin: 10px 0;
+}
+.masthead .container .img-fluid {
+	display:block;
+	height: 500pt;
+	margin-top: calc(-200px);
+	margin-bottom: calc(-200px);
+  
+}
