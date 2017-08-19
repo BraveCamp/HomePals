@@ -28,7 +28,12 @@ the carousel */
 font-family:    Impact;
 font-size:      72px;
 color:          #ffffff !important;
+text-shadow: 3px 1px #18BC9c;
 }
+.carousel-caption h3 {
+font-family:    Impact;
+color:          #ffffff !important;
+text-shadow: 3px 1px #18BC9C;
 
 
 /* This changes the style of the captions surrounded by <p> tags in 
